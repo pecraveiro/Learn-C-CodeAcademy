@@ -24,7 +24,7 @@ O curso **Learn C** de linguagem de programação C - totalmente gratuito e em i
 
 ## 🔎 Onde encontrar o curso:
 
-- [Codeacademy](https://www.codecademy.com/learn/learn-c)
+- [CodeAcademy](https://www.codecademy.com/learn/learn-c)
 
 ## 💰 Donates:
 
