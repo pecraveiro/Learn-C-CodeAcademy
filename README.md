@@ -62,7 +62,7 @@ If you want to support my learning, making it possible to carry out all the proj
   <summary>Pix :brazil:</summary>
     
   ```
-  pecraveiro1@gmail.com
+  da938ec7-d485-418b-8dcc-8a2fc11f9531
   ```
 </details>
 
